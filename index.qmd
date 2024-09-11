@@ -1,0 +1,21 @@
+---
+title: "Just Do It!!"
+---
+
+# Hello
+Welcome to the landing page for hte 'JDI' club. We are an oganization charged with ensuring our members live their life to their maximum capabilities. 
+
+
+# Commands
+Below are the commands to create this `quarto` website using the terminal.
+```bash
+quarto create --help
+quarto create project
+> select website
+> enter title
+> enter directory(current .)
+```
+**Note**
+Quarto is nice it provides terminal prompts to guide in creating whatever.
+
+*To learn more about Quarto websites visit <https://quarto.org/docs/websites>.*
