@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Just Do It!!",
+    "section": "",
+    "text": "Hello\nWelcome to the landing page for hte ‘JDI’ club. We are an oganization charged with ensuring our members live their life to their maximum capabilities.\n\n\nCommands\nBelow are the commands to create this quarto website using the terminal.\nquarto create --help\nquarto create project\n&gt; select website\n&gt; enter title\n&gt; enter directory(current .)\n\nTo preview the website  quarto preview\nBuild up of the preview: the preview might not pick up changes to non-website related fiels so use render. This shuts down everything and starts it back up again ensuring the site is built up from scratch, everything is picked up.  quarto render\n\n\n\nNotes\nHow does quarto know I am in a quarto project The yml(yet another markdown language) file acts as a config with the instructions to let quarto know that the folder is a project.\nWhat is localhost Simple version - I am running stuff on my machine.\nNote Quarto is nice it provides terminal prompts to guide in creating whatever.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Who We Are\nJDI the group you want to be a part of. Simple right?\n\n\nWhat We Do\nNothing really.\n\n\nWhat You Can Do For Us\nDon’t be shy sponsor us! … please?"
+  }
+]

@@ -15,7 +15,21 @@ quarto create project
 > enter title
 > enter directory(current .)
 ```
+- To preview the website
+    <br/>
+    `quarto preview`
+- Build up of the preview: the preview might not pick up changes to non-website related fiels so use **render**. This shuts down everything and starts it back up again ensuring **the site is built up from scratch, everything is picked up.**
+    <br/>
+    `quarto render`
+
+# Notes
+**How does quarto know I am in a quarto project**
+<br/>The yml(yet another markdown language) file acts as a config with the instructions to let quarto know that the folder is a project.
+
+**What is localhost**
+<br/>Simple version - I am running stuff on my machine.
+
 **Note**
-Quarto is nice it provides terminal prompts to guide in creating whatever.
+<br/>Quarto is nice it provides terminal prompts to guide in creating whatever.
 
 *To learn more about Quarto websites visit <https://quarto.org/docs/websites>.*
